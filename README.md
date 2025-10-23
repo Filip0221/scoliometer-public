@@ -17,10 +17,10 @@
 
 ## Technologie
 
-- **Swift 5.9**
+- **Swift 6.2**
 - **SwiftUI**
 - **SwiftData**
-- **Xcode 16**
+- **Xcode 26**
 - **CoreMotion**
 
 ---
