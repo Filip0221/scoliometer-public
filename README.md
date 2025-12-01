@@ -1,6 +1,6 @@
 # Scoliometer
 
-**Scoliometer** to aplikacja iOS stworzona w SwiftUI z wykorzystaniem **SwiftData**, służąca do wykonywania i zapisywania pomiarów kąta nachylenia pleców – pomocna przy wstępnej ocenie **skoliozy**.  
+**Scoliometer** to aplikacja iOS stworzona w SwiftUI z wykorzystaniem **SwiftData**, służąca do wykonywania i zapisywania pomiarów kąta rotacji tułowia – pomocna przy wstępnej ocenie **skoliozy**.  
 
 ---
 
